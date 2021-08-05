@@ -1,0 +1,103 @@
+.template {
+    background-color: #eff5f9;
+    padding: 30px 20px;
+}
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title_name {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 121.69%;
+    /* or 29px */
+    margin-left: 10px;
+    text-align: center;
+
+    color: #242d4a;
+}
+.bds {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 121.69%;
+    /* identical to box height, or 22px */
+    float: left;
+    text-align: center;
+    letter-spacing: -0.5px;
+    margin-left: 10px;
+    color: #d4b59c;
+}
+.dear {
+    margin-top: 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 121.69%;
+    letter-spacing: -0.5px;
+
+    color: #505a7c;
+}
+.body {
+    line-height: 20px;
+    background: #ffffff;
+    border: 0.6px solid #b6b6b6;
+    box-sizing: border-box;
+    border-radius: 6px;
+    padding: 40px;
+    margin-top: 40px;
+}
+.text {
+    margin: 20px 0;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 121.69%;
+    /* or 22px */
+    color: #242d4a;
+    letter-spacing: -0.5px;
+}
+.btn_signin {
+    margin: 0 auto;
+    background: #fbad18;
+    border-radius: 20px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 121.69%;
+    /* or 22px */
+    text-align: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.5px;
+    border: none;
+    padding: 10px 12px;
+    color: #ffffff;
+}
+.footer {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 121.69%;
+    /* or 22px */
+    margin: 20px 0;
+    letter-spacing: -0.5px;
+
+    color: #242d4a;
+}
+.copy {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 22px;
+    /* identical to box height, or 157% */
+    text-align: center;
+    text-align: center;
+    letter-spacing: 0.1px;
+    margin-top: 20px;
+    /* Grey/3 */
+
+    color: #a7a7a7;
+}
